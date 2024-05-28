@@ -17,7 +17,7 @@ TOKEN = "7137394070:AAEoYAS-vTS2-r9AZIHBYCLycMP11age3lA"
 # All handlers should be attached to the Router (or Dispatcher)
 dp = Dispatcher()
 
-
+# zxasdas dasd
 @dp.message(CommandStart())
 async def command_start_handler(message: Message) -> None:
     """
