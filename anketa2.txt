@@ -1,0 +1,12 @@
+# �1 
+Ismi: Salohiddin
+Yoshi: 28
+Qayerdanligi: Buxoro
+# �2 
+Ismi: Said
+Yoshi: 24
+Qayerdanligi: Namangan
+# �3 
+Ismi: Shoxjahon
+Yoshi: 25
+Qayerdanligi: Toshkent viloyati

@@ -1,0 +1,28 @@
+# ¹1 
+Ismi: Nursulton
+Yoshi: 32
+Qayerdanligi: Samarqand
+Ish Staji: 1
+***************************
+
+# ¹1 
+Ismi: Nursulton
+Yoshi: 32
+Qayerdanligi: Samarqand
+'Ish staji': 1 
+***************************
+
+# ¹1 
+Ismi: Njan
+Yoshi: 33
+Qayerdanligi: SS
+'Ish staji': 3 
+***************************
+
+# ¹1 
+Ismi: nn
+Yoshi: 33
+Qayerdanligi: ss
+'Ish staji': 1 
+***************************
+
